@@ -1,0 +1,10 @@
+weight: 3
+title: "Live in Nature, Do Yoga, Code"
+description: >
+  <ul class="list-style-none">
+    <li>Learn to code by joining any of our awesome bootcamp</li>
+    <li>Or join any focussed study group to sharpent your development skills</li>
+    <li>Or work on your own</li>
+    <li><a href="http://www.jaagastudy.org">Jaagastudy</a></li>
+  </ul>
+image: "img/carousel/study.jpeg"
